@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Bevan
+- Font Author: Copyright 2016 The Bevan Project Authors (www.sansoxygen.com)
+- Font Source: http://fonts.gstatic.com/s/bevan/v12/4iCj6KZ0a9NXjF8aUir7tlSJ.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL)
